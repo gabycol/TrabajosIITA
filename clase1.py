@@ -24,3 +24,5 @@ ingreso1 = int(input("ingresa un numero") )
 ingreso2 = int(input("ingresa un numero") )
 ingreso3 = int(input("ingresa un numero") )
 print ((ingreso1+ingreso2+ingreso3)/3)
+
+print("Holaaa este es unb cambio")
